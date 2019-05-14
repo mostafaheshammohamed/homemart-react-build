@@ -1,0 +1,22 @@
+/*
+
+Template: TantaMart
+Author: Magic Apps
+Design and Developed by: Magic APPs Company for web services
+
+NOTE:  This file includes all plugins. If you don't want to use any plugins from below. You can simply remove that line from this file.
+
+*/
+ 
+/*plugins*/
+
+@import url("vendor/plugins/animate.css");
+@import url("vendor/plugins/font-awesome.min.css");
+@import url("vendor/plugins/bootstrap-datetimepicker.min.css");
+@import url("vendor/plugins/dataTables.bootstrap4.min.css");
+@import url("vendor/plugins/magnific-popup.css");
+@import url("vendor/plugins/mediaelementplayer.css");
+@import url("vendor/plugins/owl.carousel.min.css");
+@import url("vendor/plugins/slick-theme.css");
+@import url("vendor/plugins/themify-icons.css");
+@import url("vendor/plugins/fullcalendar.css");

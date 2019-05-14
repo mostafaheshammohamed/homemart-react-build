@@ -1,0 +1,17 @@
+a{
+  &:hover{
+    background: transparent;
+  }
+}
+
+.navbar {
+  a:hover{
+    background: transparent;
+  }
+  button {
+
+    a,a:hover {
+      background: transparent;
+    }
+  }
+}
